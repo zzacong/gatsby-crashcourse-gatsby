@@ -1,5 +1,5 @@
 import React from "react"
-import Link from "gatsby-link"
+import { Link } from "gatsby"
 
 const Menu = () => (
   <div style={{ background: "#f4f4f4", paddingTop: "10px" }}>
@@ -20,7 +20,7 @@ const Menu = () => (
         <Link to="/services">Services</Link>
       </li>
       <li>
-        <Link to="/">Home</Link>
+        <Link to="/blog">Blog</Link>
       </li>
     </ul>
   </div>

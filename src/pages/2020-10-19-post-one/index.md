@@ -1,6 +1,6 @@
 ---
-path: "post-one"
-date: "2018-10-28"
+path: "/post-one"
+date: "2018-10-19"
 title: "My First Gatsby Post"
 author: "Zac Ong"
 ---
